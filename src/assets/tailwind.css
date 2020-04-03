@@ -3,3 +3,18 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.bg-wa-dark {
+  background-color: #255e54;
+}
+.bg-wa-darker {
+  background-color: #1f5149;
+}
+
+.bg-wa-lighter {
+  background-color: #e3fbcc;
+}
+
+.text-wa-lighter {
+  color: #e3fbcc;
+}
